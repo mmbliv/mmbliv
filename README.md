@@ -14,12 +14,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/-dart-000?style=for-the-badge&logo=dart)
 
 #### JS Framework/Library
 
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![Gatsby](https://img.shields.io/badge/-gatsby-000?style=for-the-badge&logo=gatsby)
+![Flutter](https://img.shields.io/badge/-flutter-000?style=for-the-badge&logo=flutter)
 
 #### CSS Framework/Library/Pre-processors
 
